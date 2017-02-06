@@ -10,7 +10,9 @@ future headaches.
 ### 2. Get your tools
 [Android Studio](https://developer.android.com/studio/index.html?gclid=Cj0KEQiA2uDEBRDxurOO77Cp-7kBEiQAOUgKV04Cp7VZzXEpj0LuC62iQ3dySuBOrDt2VJg0K7bKHd4aAoNP8P8HAQ) is the main tool for creating Android apps.
 It is based off of the IntelliJ Java IDE. It also comes with a preinstalled Android Emulator;
-therefore, you do _not_ need a physical Android phone to run your apps.
+therefore, you do _not_ need a physical Android phone to run your apps. As well as Android Studio, you will need
+the Android SDK (Software Development Kit). The SDK usually comes with Android Studio, but there is other SDKs and APIs, 
+like the Google Maps API, that you can utilize in your app.
 
 ### 3. Learn the language
 Android apps are made in Java (and sometimes C++ and C#). Java is a _compiled_ language
