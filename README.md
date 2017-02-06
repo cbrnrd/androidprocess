@@ -48,3 +48,6 @@ Again, doing this will take out some future headaches in the development process
 This one is apparent with any new language/software. The Java documentation is available [here](http://docs.oracle.com/javase/8/docs/api/index.html), and the Android documentation is available [here](https://developer.android.com/reference/packages.html). The [Android Developer site](https://developer.android.com/guide/index.html) has some useful tutorials on how to do certain tasks like animation, data storage, and others. 
 
 
+***
+#### Other
+[Here](https://github.com/JStumpp/awesome-android) is a curated list of cool APIs and other things that you can utilize in your app.
