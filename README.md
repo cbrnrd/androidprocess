@@ -32,11 +32,17 @@ public class HelloWorldExample{
 
 As you can see, Java has more words and lines to do the same thing, but this
 brings a certain amount of customizability to Java that Python doesn't have. 
+To start jearning Java, go to [codecademy.com](https://www.codecademy.com/learn) 
+and go to the 'Java' section. I have also made a bit of a Java cheat sheet you can use for syntax referenct [here](https://github.com/thecarterb/Programming-Cheat-Sheets/tree/master/Java)
 
 ### 4. Learn the software
 
 Android Studio comes with a build in designer for designing the UI (User interface)
-of your app. 
+of your app. If you want your app to look good, practice with the designer and figure out its quirks.
+Again, doing this will take out some future headaches in the development process. 
 
- 
+### 5. Read the documentation
+
+This one is apparent with any new language/software. The Java documentation is available [here](http://docs.oracle.com/javase/8/docs/api/index.html), and the Android documentation is available [here](https://developer.android.com/reference/packages.html). The [Android Developer site](https://developer.android.com/guide/index.html) has some useful tutorials on how to do certain tasks like animation, data storage, and others. 
+
 
