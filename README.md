@@ -17,8 +17,8 @@ like the Google Maps API, that you can utilize in your app.
 ### 3. Learn the language
 Android apps are made in Java (and sometimes C++ and C#). Java is a _compiled_ language
 (Python was an _interpreted_ language). Java is also more verbose, or "Strongly typed"
-language than Java. For example, a "Hello world" program in python would be like this:
-```Python
+language than Python. For example, a "Hello world" program in python would be like this:
+```python
   print("Hello world")
 ```
 
